@@ -1,6 +1,7 @@
 # Desafio Clone Netflix 
 
 Desafio que fiz durante o Bootcamp do Carrefour na DIO.
+
 https://github.com/YasmineBelmiro/Netflix-clone
 
 ## Descrição do Desafio
