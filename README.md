@@ -2,7 +2,7 @@
 
 Desafio que fiz durante o Bootcamp do Carrefour na DIO.
 
-https://github.com/YasmineBelmiro/Netflix-clone
+https://yasminebelmiro.github.io/Netflix-clone/
 
 ## Descrição do Desafio
 
